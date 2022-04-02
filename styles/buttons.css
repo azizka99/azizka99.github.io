@@ -1,9 +1,9 @@
 .btn {
-    background-color: #cea135;
-    color: #11122b;
+    background-color: #008500;
+    color: white;
     font-size: 1.25em;
     padding: 10px 25px;
-    border: 1px solid #cea135;
+    border: 1px solid #008500;
     border-radius: 2px;
     outline: none;
     transition: 0.3s;
