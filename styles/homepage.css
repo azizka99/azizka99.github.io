@@ -69,7 +69,8 @@
 }
 
 .features-section > .columns-wrapper > .column :nth-child(2) {
-    font-size: 1.5em;
+    color: #cea135;
+	font-size: 1.5em;
     font-weight: 900;
     height: 50px;
     transition: 1s;

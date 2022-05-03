@@ -14,9 +14,12 @@
     width: 100px;
     height: 110px;
     /* filter: brightness(50%); */
-	 margin-top: 20px;
-	 margin-bottom: 10px;
+	 margin-top: 60px;
     opacity: 0.5;
+}
+
+.footer > .brandname h3{
+	color: #cea135;
 }
 
 .footer > .footer-phone-hours span {
