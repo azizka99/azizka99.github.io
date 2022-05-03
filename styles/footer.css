@@ -11,9 +11,11 @@
 }
 
 .footer > .logo-footer img {
-    width: 180px;
-    height: 100%;
+    width: 100px;
+    height: 110px;
     /* filter: brightness(50%); */
+	 margin-top: 20px;
+	 margin-bottom: 10px;
     opacity: 0.5;
 }
 
